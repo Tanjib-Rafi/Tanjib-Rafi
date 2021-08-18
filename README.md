@@ -1,5 +1,5 @@
-### Hi there 👋
-[![Header](https://github.com/Tanjib-Rafi/Tanjib-Rafi/raw/master/profile.gif)]
+
+<a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a>
 
 ##### Hi, I'm Rafi:
 
