@@ -49,7 +49,7 @@
 [![Tor](https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/) -->
 
 
- <img src="https://github-readme-stats.vercel.app/api?username=Tanjib-Rafi&show_icons=true" alt="tanjib-rafi" /> </p>
+ <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tanjib-Rafi&show_icons=true" alt="tanjib-rafi" /> </p>
 
 
 <!--
