@@ -36,6 +36,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=Bootstrap&logoColor=61DAFB)
 
 ##### Some of my favorite open source projects
 
