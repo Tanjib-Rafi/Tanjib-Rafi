@@ -39,7 +39,7 @@
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=Bootstrap&logoColor=61DAFB)
 
-##### Some of my favorite open source projects
+<!-- ##### Some of my favorite open source projects -->
 
 <!-- [![Bitwarden](https://img.shields.io/badge/-Bitwarden-444444?style=flat&logo=bitwarden&logoColor=175DDC)](https://github.com/bitwarden)
 [![Dark Reader](https://img.shields.io/badge/-Dark&#32;Reader-444444?style=flat&logo=Dark-Reader&logoColor=2f7485)](https://github.com/darkreader/darkreader)
@@ -47,6 +47,16 @@
 [![MEGA](https://img.shields.io/badge/-MEGA-444444?style=flat&logo=mega&logoColor=D9272E)](ttps://github.com/meganz/)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 [![Tor](https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/) -->
+
+
+<p align="center">
+  <a href="https://in.linkedin.com/in/salman-dabbakuti-400479135" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="salmandabbakuti" height="20" width="20" /></a>
+<a href="https://dev.to/salmandabbakuti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="salmandabbakuti" height="20" width="20" /></a>
+<a href="https://twitter.com/salmandabbakuti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="salmandabbakuti" height="20" width="20" /></a>
+<a href="https://fb.com/dabbakuti.salmon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="dabbakuti.salmon" height="20" width="20" /></a>
+<a href="https://medium.com/@Salmandabbakuti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="salmandabbakuti" height="20" width="20" /></a>
+</p>
+
 
 <!--
 **Tanjib-Rafi/Tanjib-Rafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
