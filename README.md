@@ -67,7 +67,7 @@
 </a>
 </p>
 
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Tanjib-Rafi&show_icons=true&theme=dracula" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Tanjib-Rafi&show_icons=true&theme=dracula" /></p>
 
 <!--START_SECTION:waka-->
 ```text
