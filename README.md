@@ -34,7 +34,7 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-[![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js&link=https://github.com/Tanjib-Rafi/)]
+[![Vue.js](https://img.shields.io/badge/-Vuejs-222222?style=flat-square&logo=vue.js&link=https://github.com/Tanjib-Rafi/)]
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=Bootstrap&logoColor=61DAFB)
