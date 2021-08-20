@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
 <!-- ##### Hi, I'm Rafi: -->
 
-<a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a>
+<img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" />
 - 🎓I'm a student, Currently doing my bachelor degree in computer science and engineering
 <!-- - :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition -->
 - 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
@@ -61,10 +61,8 @@
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 [![Tor](https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/) -->
 
-<p align="center"> 
-<a href="https://github.com/Neel2904">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanjib-Rafi&theme=radical&hide=glsl,python" />
-</a>
 </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Tanjib-Rafi&show_icons=true&theme=dracula" /></p>
