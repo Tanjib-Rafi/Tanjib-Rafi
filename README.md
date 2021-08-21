@@ -6,7 +6,7 @@
 <img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" />
 - 🎓I'm a student, Currently doing my bachelor degree in computer science and engineering
 <!-- - :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition -->
-- 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
+- 🪐Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
 - :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
 - :mailbox: You can reach me with the links below
 
