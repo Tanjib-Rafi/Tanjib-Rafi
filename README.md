@@ -4,7 +4,7 @@
 
 <img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" />
 
-- 🎓I'm a student, Currently doing my bachelor degree in computer science and engineering
+- 🎓I have finished my bachelor's degree in computer science and engineering.
 <!-- - :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition -->
 - 🪐Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
 - :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
@@ -47,6 +47,7 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+![Laravel](https://img.shields.io/badge/-Laravel-222222?style=flat&logo=Laravel&logoColor=FF2D20)
 ![Vue.js](https://img.shields.io/badge/-Vuejs-222222?style=flat-square&logo=vue.js&link=https://github.com/Tanjib-Rafi/)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
