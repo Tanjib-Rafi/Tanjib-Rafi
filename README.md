@@ -30,17 +30,21 @@
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 <a src="https://redis/"><img src="https://img.icons8.com/color/48/000000/redis.png"/></a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
+<a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/> </a>
+<a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 
 
 
 ##### Languages I use
 
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
@@ -50,6 +54,10 @@
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Django](https://img.shields.io/badge/-Django-222222?style=flat&logo=django&logoColor=61DAFB)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-222222?style=flat&logo=kubernetes&logoColor=326CE5)
+![Prometheus](https://img.shields.io/badge/-Prometheus-222222?style=flat&logo=prometheus&logoColor=E6522C)
+![Grafana](https://img.shields.io/badge/-Grafana-222222?style=flat&logo=grafana&logoColor=F46800)
+![AWS](https://img.shields.io/badge/-AWS-222222?style=flat&logo=amazon-aws&logoColor=FF9900)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
